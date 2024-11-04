@@ -20,8 +20,7 @@ My journey in the world of technology started with a simple "Hello, World!" and 
 👀 I’m interested in artificial intelligence, machine learning, and data science.
 🌱 I’m currently learning more about advanced neural networks and AI ethics.
 💞️ I’m looking to collaborate on innovative AI projects and research.
-📫 How to reach me: [Your Contact Information]
-😄 Pronouns: [Your Pronouns]
+📫 How to reach me: [nsksanketsatpute@gmail.com]
 ⚡ Fun fact: I believe that AI can revolutionize the world, and I’m excited to be a part of that journey!
 
 Feel free to reach out if you share similar interests or if you'd like to collaborate on exciting projects!
